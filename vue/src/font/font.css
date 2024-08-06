@@ -1,0 +1,11 @@
+@font-face {
+	font-family: "CustomFont";
+	src: url("C:/Users/zzsz/Desktop/work1/vue-01/src/assets/Slidexiaxing-Regular.ttf")format("truetype");
+}
+
+@font-face {
+	font-family: "华文行楷";
+	src: url("C:/Users/zzsz/Desktop/work1/vue-01/src/assets/华文行楷.ttf");
+	font-weight: normal;
+	font-style: normal;
+}
